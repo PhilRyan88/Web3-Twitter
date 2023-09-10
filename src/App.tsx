@@ -295,10 +295,8 @@ function App() {
         <h1>New Tweet</h1>
         <Card>
           <Card.Body>
-            {/*
             <Card.Title>What are you thinking? Tweet it out!</Card.Title>
             <Card.Text></Card.Text>
-  */}
 
             <Form.Control
               as="input"
@@ -307,6 +305,7 @@ function App() {
             />
             <br></br>
             <br></br>
+            {/*
             <Form.Control
               as="textarea"
               onChange={handleNewTweetDescriptionChange}
@@ -315,6 +314,7 @@ function App() {
             <br></br>
 
             <FaRetweet onClick={addNewTweet} />
+  */}
           </Card.Body>
         </Card>
       </div>
