@@ -1,4 +1,3 @@
-//for search.tsx
 import React from "react";
 
 function Search() {
