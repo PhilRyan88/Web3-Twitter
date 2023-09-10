@@ -289,14 +289,16 @@ function App() {
   const loggedInView = (
     <>
       <button className="button" onClick={logout}>
-        Logout
+        Sign Out
       </button>
       <div>
         <h1>New Tweet</h1>
         <Card>
           <Card.Body>
+            {/*
             <Card.Title>What are you thinking? Tweet it out!</Card.Title>
             <Card.Text></Card.Text>
+  */}
 
             <Form.Control
               as="input"
