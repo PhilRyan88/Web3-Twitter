@@ -364,7 +364,7 @@ function App() {
                   }
                   target="_blank"
                 >
-                  Buy Now
+                  Make Offer
                 </a>
               </Card>
             </div>
