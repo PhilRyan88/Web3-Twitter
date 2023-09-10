@@ -305,7 +305,6 @@ function App() {
             />
             <br></br>
             <br></br>
-            {/*
             <Form.Control
               as="textarea"
               onChange={handleNewTweetDescriptionChange}
@@ -314,7 +313,6 @@ function App() {
             <br></br>
 
             <FaRetweet onClick={addNewTweet} />
-  */}
           </Card.Body>
         </Card>
       </div>
@@ -342,7 +340,7 @@ function App() {
                         Comment {j + 1}: {comment}
                       </div>
                     ))}
-                    <h3>New Comment</h3>
+                    <h3>Comment Here</h3>
                     <span>
                       <Form.Control
                         as="input"
