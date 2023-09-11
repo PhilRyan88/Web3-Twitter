@@ -14,12 +14,16 @@ function Trends() {
           <strong>#GoerliFaucet</strong>
           <span>98k tweets</span>
         </a>
-        <a href="http://twitter.com/hashtag/EthereumMerge" title="" target="_blank">
+        <a
+          href="http://twitter.com/hashtag/EthereumMerge"
+          title=""
+          target="_blank"
+        >
           <strong>#EthereumMerge</strong>
           <span>53k tweets</span>
         </a>
-        <a href="https://metaschool.so/" title="" target="_blank">
-          <strong>#Metaschool</strong>
+        <a href="https://github.com/PhilRyan88" title="" target="_blank">
+          <strong>#Developer</strong>
           <span>42k tweets</span>
         </a>
       </div>
