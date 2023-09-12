@@ -15,11 +15,11 @@ function Trends() {
           <span>98k tweets</span>
         </a>
         <a
-          href="http://twitter.com/hashtag/EthereumMerge"
+          href="https://in.tradingview.com/markets/cryptocurrencies/"
           title=""
           target="_blank"
         >
-          <strong>#EthereumMerge</strong>
+          <strong>#CryptoMarket</strong>
           <span>53k tweets</span>
         </a>
         <a href="https://github.com/PhilRyan88" title="" target="_blank">
