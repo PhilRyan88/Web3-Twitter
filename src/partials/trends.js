@@ -6,7 +6,7 @@ function Trends() {
     <>
       <div className="trendings">
         <h3>Trends for you</h3>
-        <a href="http://web3auth.io/" title="" target="_blank">
+        <a href="https://www.sandbox.game/en/" title="" target="_blank">
           <strong>#Sandbox</strong>
           <span>125k tweets</span>
         </a>
