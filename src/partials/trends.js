@@ -10,8 +10,8 @@ function Trends() {
           <strong>#Sandbox</strong>
           <span>125k tweets</span>
         </a>
-        <a href="http://goerlifaucet.com/" title="" target="_blank">
-          <strong>#GoerliFaucet</strong>
+        <a href="https://faucet.polygon.technology/" title="" target="_blank">
+          <strong>#PolygonFaucet</strong>
           <span>98k tweets</span>
         </a>
         <a
