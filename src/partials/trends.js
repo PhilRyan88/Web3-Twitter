@@ -7,7 +7,7 @@ function Trends() {
       <div className="trendings">
         <h3>Trends for you</h3>
         <a href="http://web3auth.io/" title="" target="_blank">
-          <strong>#Web3Auth</strong>
+          <strong>#Sandbox</strong>
           <span>125k tweets</span>
         </a>
         <a href="http://goerlifaucet.com/" title="" target="_blank">
